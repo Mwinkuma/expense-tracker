@@ -13,7 +13,7 @@ A simple web application to track personal expenses, built with Flask.
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Mwinkuma/reimagined-first-monthly-expense-tracker.git
+   git clone https://github.com/Mwinkuma/expense-tracker.git
    cd reimagined-first-monthly-expense-tracker
    ```
 
@@ -47,4 +47,4 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
