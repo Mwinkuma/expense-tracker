@@ -47,4 +47,5 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ## Screenshot
 
-![Screenshot](screenshot.PNG)
+![Screenshot](screenshot.png)
+
